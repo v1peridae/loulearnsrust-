@@ -1,6 +1,11 @@
 [package]
-name = "making-cl-program"
+name = "normal-rust-task-manager-lol" 
 version = "0.1.0"
-edition = "2021"
+edition = "2025"
+authors = ["v1peridae"]
+description = "A normal command-line task manager"
+license = "ISC"
+repository = "https://github.com/v1peridae/loulearnsrust-"
+keywords = ["cli", "task-manager"]
 
 [dependencies]
