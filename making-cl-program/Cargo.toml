@@ -1,7 +1,7 @@
 [package]
 name = "normal-rust-task-manager-lol" 
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 authors = ["v1peridae"]
 description = "A normal command-line task manager"
 license = "ISC"
